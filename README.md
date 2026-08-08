@@ -11,9 +11,16 @@ I’m a student, so the frequency of updates is irregular.
 
 ---
 
-对于Ithkuil字符复制器，只需要输入你想要的字符对应的数字，然后回车，就可以了
-
+对于Ithkuil字符复制器，只需要输入你想要的字符对应的数字，然后回车，就可以了  
 To use the Ithkuil character generator, simply enter the number corresponding to the character you want, then press Enter.
+
+第一版复制器的字符集如下：  
+The character set for the first-generation duplicator is as follows:  
+pʰ：1   p'：2   tʰ：3   t'：4   ţ：5   ż：6   cʰ：7   c'：8   č：9   čʰ：10  
+č'：11  š：12   ž：13   ç：14   kʰ：15 k'：16 ň：17   qʰ：18  q'：19  ř：20  
+'：21   ļ：22   d͕：23   ẓ：24  
+â：31   ê：32   î：33   ô：34   û：35  
+ä：41   ë：42   ʰ：43   ö：44   ü：45
 
 ---
 
