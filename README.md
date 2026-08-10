@@ -26,7 +26,9 @@ ä：41   ë：42   ʰ：43   ö：44   ü：45
 ---
 
 对于ping模拟器，你只需要输入一个整数表示你要ping的次数，然后就是静观其变，最后可以按回车来退出这个程序（这个程序之所以在这是因为我把它上传到了错的仓库，但我懒得改）  
-To use the ping simulator, simply enter an integer to specify the number of times you wish to ping, then sit back and watch what happens; finally, press Enter to exit the programme(The reason this programme is here is that I uploaded it to the wrong repository, but I can’t be bothered to fix it.).
+这个模拟器并不会发出任何数据包，所有结果都是随机出来的  
+To use the ping simulator, simply enter an integer to specify the number of times you wish to ping, then sit back and watch what happens; finally, press Enter to exit the programme(The reason this programme is here is that I uploaded it to the wrong repository, but I can’t be bothered to fix it.).  
+This simulator does not send any data packets; all results are generated randomly.
 
 ---
 ---
