@@ -10,6 +10,7 @@ Generally speaking, the tools come in both Chinese and English versions; if only
 I’m a student, so the frequency of updates is irregular.
 
 ---
+---
 
 对于Ithkuil字符复制器，只需要输入你想要的字符对应的数字，然后回车，就可以了  
 To use the Ithkuil character generator, simply enter the number corresponding to the character you want, then press Enter.
@@ -22,6 +23,9 @@ č'：11  š：12   ž：13   ç：14   kʰ：15 k'：16 ň：17   qʰ：18  
 â：31   ê：32   î：33   ô：34   û：35  
 ä：41   ë：42   ʰ：43   ö：44   ü：45
 
+
+
+---
 ---
 
 Translated with DeepL.com (free version)
