@@ -23,7 +23,10 @@ č'：11  š：12   ž：13   ç：14   kʰ：15 k'：16 ň：17   qʰ：18  
 â：31   ê：32   î：33   ô：34   û：35  
 ä：41   ë：42   ʰ：43   ö：44   ü：45
 
+---
 
+对于ping模拟器，你只需要输入一个整数表示你要ping的次数，然后就是静观其变，最后可以按回车来退出这个程序（这个程序之所以在这是因为我把它上传到了错的仓库，但我懒得改）  
+To use the ping simulator, simply enter an integer to specify the number of times you wish to ping, then sit back and watch what happens; finally, press Enter to exit the programme(The reason this programme is here is that I uploaded it to the wrong repository, but I can’t be bothered to fix it.).
 
 ---
 ---
