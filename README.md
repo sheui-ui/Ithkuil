@@ -34,7 +34,7 @@ This simulator does not send any data packets; all results are generated randoml
 
 ---
 
-对于IPA字符复制器，详见IPA Character Copier Readme.pdf
+对于IPA字符复制器，详见IPA Character Copier Readme.pdf  
 For further details on the IPA Character Copier, please refer to the IPA Character Copier Readme.pdf
 
 ---
