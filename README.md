@@ -31,6 +31,11 @@ To use the ping simulator, simply enter an integer to specify the number of time
 This simulator does not send any data packets; all results are generated randomly.
 
 ---
+
+对于IPA字符复制器，详见IPA Character Copier Readme.pdf
+For further details on the IPA Character Copier, please refer to the IPA Character Copier Readme.pdf
+
+---
 ---
 
 Translated with DeepL.com (free version)
