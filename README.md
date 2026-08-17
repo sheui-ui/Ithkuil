@@ -38,6 +38,14 @@ This simulator does not send any data packets; all results are generated randoml
 For further details on the IPA Character Copier, please refer to the IPA Character Copier Readme.pdf  
 But I forgot to translate the Chinese terms in the table into English. In the table of non-pulmonic fricatives, the heading for the first row from the top is “clicks,” the second row is “voiced implosives,” and the third row is “ejectives.”
 
+**注意，我发现了这个程序中重新开始后添加字符会继续沿用上一次的字符，目前可以尝试：  
+  1.复制完字符后退出程序再打开；  
+  2.在重新开始后删除掉所有上一次的字符**  
+**Note, I found that after restarting this program, any added characters will continue using the characters from the last session. For now, you can try:**  
+  **1. Copy the characters, then exit and reopen the program;**  
+  **2. 2. After restarting, delete all characters from the previous session.**
+
+
 ---
 ---
 
