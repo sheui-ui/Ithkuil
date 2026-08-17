@@ -43,7 +43,7 @@ But I forgot to translate the Chinese terms in the table into English. In the ta
   2.在重新开始后删除掉所有上一次的字符**  
 **Note, I found that after restarting this program, any added characters will continue using the characters from the last session. For now, you can try:**  
   **1. Copy the characters, then exit and reopen the program;**  
-  **2. 2. After restarting, delete all characters from the previous session.**
+  **2. After restarting, delete all characters from the previous session.**
 
 
 ---
